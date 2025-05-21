@@ -25,8 +25,8 @@
 
 ### 2. Clone this Repository
 ```sh
-git clone https://github.com/yourusername/ema.git
-cd ema
+git clone https://github.com/yashokuu/Ema.git
+cd Ema
 ```
 
 ### 3. Save Your API Key
